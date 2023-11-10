@@ -14,8 +14,16 @@
     - 3 quarter is 1.5$\pi$
 
 ### Equations
+
+**Conversion**
+
 $$Degres to Radians ={180rad \over \pi}$$
 $$Radians to Degrees ={\pi degrees \over 180 }$$
+
+**Circle** 
+
+$$ x = cos(angle) * radius $$
+$$ y = sin(angle) * radius $$
 
  *CAH | SOH | TOA*
 $$Sin(a) ={Opposite \over Hypothenuse}$$
